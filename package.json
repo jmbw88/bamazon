@@ -1,0 +1,17 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "cli inventory management",
+  "main": "customerView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connection": "0.0.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20"
+  }
+}
